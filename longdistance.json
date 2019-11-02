@@ -1,0 +1,522 @@
+{
+  "MT": {
+    "USA": 1
+  },
+  "CA": {
+    "NY": 2,
+    "MI": 1,
+    "TX (1250 mi)": 1
+  },
+  "Location": {
+    "Location": 31
+  },
+  "US": {
+    "AUS": 4,
+    "UK": 7,
+    "APO": 1,
+    "Colombia": 1,
+    "Sweden": 1,
+    "Germany": 1,
+    "Australia": 2,
+    "Aus": 1,
+    "CA": 1,
+    "Barbados": 1,
+    "UK married and local for 3 years": 1
+  },
+  "Germany": {
+    "Poland": 1,
+    "Nepal": 1,
+    "Australia": 1,
+    "Azerbaijan": 1
+  },
+  "Louisiana": {
+    "Pennsylvania": 1,
+    "US": 1
+  },
+  "Poland": {
+    "Germany": 1
+  },
+  "CO": {
+    "USA": 1,
+    "AZ": 1
+  },
+  "UK": {
+    "South": 1,
+    "Germany": 2,
+    "AUS": 1,
+    "USA": 3,
+    "Canada": 3,
+    "Vietnam": 1,
+    "Thailand": 1,
+    "Brazil": 1,
+    "CA": 1,
+    "Canaderp": 1,
+    "California": 1,
+    "US": 1,
+    "ARG": 1
+  },
+  "IL": {
+    "TX": 1
+  },
+  "Texas": {
+    "S": 1,
+    "England": 1,
+    "Ohio": 1
+  },
+  "Switzerland": {
+    "South": 2,
+    "US": 1
+  },
+  "Los": {
+    "Angeles": 1
+  },
+  "Illinois": {
+    "Arizona": 1,
+    "North": 1
+  },
+  "England": {
+    "Ontario": 1,
+    "Northern": 1,
+    "Sweden": 1
+  },
+  "AUS": {
+    "VN": 2,
+    "AUS": 1,
+    "USA": 2
+  },
+  "Melbourne": {
+    "California": 1,
+    "AUS": 1
+  },
+  "Norway": {
+    "UK": 1
+  },
+  "NL": {
+    "USA": 1,
+    "US": 1,
+    "Turkey": 1,
+    "UK": 1,
+    "ES": 1
+  },
+  "CH": {
+    "UK": 1
+  },
+  "USA": {
+    "UK": 1,
+    "Switzerland": 1,
+    "AUS": 2,
+    "Japan": 2,
+    "Australia": 1,
+    "Sweden": 1,
+    "Philippines": 1,
+    "Norway": 1,
+    "Denmark(5350mi)": 1,
+    "Portugal": 1,
+    "Russia": 1,
+    "Scotland": 1
+  },
+  "Cairns": {
+    "Toronto": 1
+  },
+  "TX": {
+    "UK": 1
+  },
+  "Canada": {
+    "Austria (6566 Km)": 1,
+    "US": 1,
+    "UK": 1,
+    "USA": 1,
+    "Northern": 1,
+    "Vietnam": 1,
+    "Germany": 1
+  },
+  "Denmark": {
+    "Denmark": 1,
+    "Belgium": 1
+  },
+  "NL🇳🇱": {
+    "SK🇰🇷": 1
+  },
+  "Netherlands": {
+    "Canada(6000km)": 1,
+    "Finland": 1,
+    "USA": 1,
+    "South": 1,
+    "Sweden": 1,
+    "Mexico": 1,
+    "Brazil": 1,
+    "Germany": 1,
+    "Belarus": 1
+  },
+  "Florida": {
+    "England": 1,
+    "New": 1
+  },
+  "Belgium": {
+    "New": 1
+  },
+  "VA": {
+    "CA": 1,
+    "FL": 1
+  },
+  "Aus": {
+    "Fra": 1,
+    "Can": 1,
+    "USA": 1
+  },
+  "WA": {
+    "TX": 1
+  },
+  "Australia": {
+    "Italy": 1,
+    "Sweden": 1,
+    "Wisconsin": 1,
+    "Canada": 2,
+    "USA": 1
+  },
+  "Vienna": {
+    "Austria": 1
+  },
+  "ENG": {
+    "LEB 2250mi": 1
+  },
+  "South": {
+    "Africa": 1,
+    "Korea": 1
+  },
+  "California": {
+    "Netherlands": 1,
+    "Ohio": 2,
+    "Pennsylvania": 1,
+    "Texas": 1,
+    "New": 1,
+    "Korea": 1,
+    "Ontario": 1
+  },
+  "PHL": {
+    "USA": 1
+  },
+  "Sweden": {
+    "USA": 1,
+    "Wales": 1,
+    "Australia": 1,
+    "Scotland": 1,
+    "US": 1
+  },
+  "DC": {
+    "US": 1
+  },
+  "North": {
+    "Carolina": 3
+  },
+  "Indiana": {
+    "Ireland": 1
+  },
+  "Alaska": {
+    "Hawaii": 1,
+    "England": 1
+  },
+  "Croatia": {
+    "UK": 1
+  },
+  "Tahiti": {
+    "California": 1
+  },
+  "IL-USA": {
+    "CT-USA": 1
+  },
+  "Lithuania": {
+    "Czech": 1
+  },
+  "London": {
+    "Cusco": 1,
+    "UK": 1
+  },
+  "OR": {
+    "MT": 1
+  },
+  "Serbia": {
+    "California": 1
+  },
+  "Scotland": {
+    "Belgium": 1,
+    "The": 1,
+    "UK": 1
+  },
+  "GR": {
+    "US": 1,
+    "MX": 1
+  },
+  "CMH": {
+    "DCA": 1
+  },
+  "BOS": {
+    "SEA": 1
+  },
+  "Spain": {
+    "Thailand": 1
+  },
+  "USA X Hungary": {
+    "Egypt ": 1
+  },
+  "BC": {
+    "CAN": 1
+  },
+  "Alberta": {
+    "New": 1
+  },
+  "Ontario": {
+    "New": 1,
+    "Dominica": 1,
+    "England": 1
+  },
+  "Maryland": {
+    "Tennessee": 1
+  },
+  "Bristol": {
+    "UK": 1
+  },
+  "NY": {
+    "Vancouver": 1,
+    "CA": 2,
+    "GA": 1
+  },
+  "New": {
+    "Delhi": 1,
+    "York": 2,
+    "Jersey": 2
+  },
+  "United": {
+    "States": 2
+  },
+  "Mexico": {
+    "Netherlands": 1
+  },
+  "Manitoba": {
+    "Alberta": 1
+  },
+  "Anchorage": {
+    "Boston": 1
+  },
+  "ITA": {
+    "RWA": 1
+  },
+  "NB": {
+    "ON Canada to UK (5200km)": 1
+  },
+  "Japan": {
+    "US": 1
+  },
+  "SG": {
+    "USA": 1,
+    "AUS": 1
+  },
+  "NYC": {
+    "OR": 1
+  },
+  "Finland": {
+    "Upstate": 1
+  },
+  "Philippines": {
+    "US": 1,
+    "SE": 1
+  },
+  "Brazil": {
+    "Germany": 1,
+    "England": 1,
+    "USA": 1,
+    "Belgium": 1
+  },
+  "UA": {
+    "DE": 1
+  },
+  "Surrey": {
+    "UK": 1
+  },
+  "Ottawa": {
+    "Boston": 1
+  },
+  "Tennessee": {
+    "Scotland": 1,
+    "Maryland": 1
+  },
+  "Perth": {
+    "AUS": 1
+  },
+  "Peru": {
+    "Poland": 1
+  },
+  "TX<>AR -> TX": {
+    "TX (Distance Closed) (Engaged)": 1
+  },
+  "MA": {
+    "SC": 1,
+    "CA": 1
+  },
+  "Singapore": {
+    "Dublin": 1
+  },
+  "Friedrichshafen": {
+    "London": 1
+  },
+  "Jersey": {
+    "Manitoba": 1
+  },
+  "RI": {
+    "CALI": 1
+  },
+  "Reading": {
+    "PA": 1
+  },
+  "Malaysia": {
+    "UK": 1
+  },
+  "Michigan": {
+    "London": 1,
+    "Illinois": 1
+  },
+  "Queensland": {
+    "South": 1
+  },
+  "Nevada": {
+    "New": 1
+  },
+  "Russia": {
+    "UK": 1
+  },
+  "Arg": {
+    "UK": 1
+  },
+  "AK": {
+    "OK": 1
+  },
+  "MX🇲🇽": {
+    "IRL🇮🇪": 1
+  },
+  "NETHERLANDS": {
+    "AMERICA": 1
+  },
+  "India": {
+    "Czech": 1
+  },
+  "Bulgaria": {
+    "Denmark": 1
+  },
+  "PR": {
+    "PH": 1
+  },
+  "Arizona": {
+    "Louisiana": 1
+  },
+  "Vietnam": {
+    "Holland": 1
+  },
+  "City": {
+    "Memphis": 1
+  },
+  "Pavia": {
+    "Italy": 1
+  },
+  "Ohio": {
+    "Nebraska": 1
+  },
+  "F25": {
+    "BC": 1
+  },
+  "Connecticut": {
+    "Sweden": 1
+  },
+  "AR": {
+    "CT": 1
+  },
+  "NZ": {
+    "USA": 1
+  },
+  "SCOTLAND": {
+    "USA": 1
+  },
+  "France": {
+    "CA": 1
+  },
+  "Raleigh": {
+    "NC": 1
+  },
+  "CAD": {
+    "UK": 1
+  },
+  "N": {
+    "Ireland": 1
+  },
+  "Chicago": {
+    "Scotland": 1
+  },
+  "Colorado": {
+    "USA": 1
+  },
+  "Vancouver": {
+    "Edmonton": 1
+  },
+  "Distance Closed - US": {
+    "NL": 1
+  },
+  "SINGAPORE": {
+    "MALAYSIA": 1
+  },
+  "GER": {
+    "AUT": 1,
+    "NZ": 1,
+    "AUS": 1
+  },
+  "Freiburg": {
+    "San": 1
+  },
+  "YYZ": {
+    "ATL": 1
+  },
+  "MS": {
+    "FL": 1
+  },
+  "Paraguay": {
+    "Germany": 1
+  },
+  "PH": {
+    "IDN": 1
+  },
+  "SF/LA": {
+    "TO/HK": 1
+  },
+  "Bergen": {
+    "County": 1
+  },
+  "Southampton": {
+    "UK": 1
+  },
+  "DE": {
+    "SG": 1
+  },
+  "Seattle": {
+    "Pullman": 1,
+    "WA": 1
+  },
+  "MN to NJ": {
+    "NY (1020 miles)": 1
+  },
+  "Sao": {
+    "Paulo": 1
+  },
+  "CAN": {
+    "UK 6000km": 1
+  },
+  "NJ": {
+    "AR": 1
+  },
+  "Distance": {
+    "Aug": 1
+  },
+  "Oklahoma": {
+    "Tennessee": 1
+  },
+  "Wales": {
+    "UK": 1
+  }
+}
